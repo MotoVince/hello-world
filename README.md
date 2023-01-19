@@ -1,27 +1,11 @@
-# hello-world
-Git Started
+Hello!
 
-My name is Vincent Mills.
-I live in Richmond Virginia.
-I am 32 years old and currently studying for an Associate of Applied Science in Information Technology. 
-I work full time as a service and repair technician at a modern motorcycle dealership but after 7 years of turning wrenches I'm ready to move into a new industry. 
-I discovered I.T. in a few ways. First I needed a computer for school, so my DIY spirit forced me to build my own PC. 
-Second I found myself connecting a computer everyday at work while diagnosing the embeded system on modern motorcycles. 
+My name is Vincent Mills but most people just call me Vince.
+I live in Richmond Virginia and I'm currently a full time technician at a motorcycle dealership and a part time student at Reynolds Community colledge pursuing an Associate of Applied Science in Information Technology. 
 
-I've really enjoyed I.T. as a hobby, building and tearing down networks in my homelab, and constiantly tinking with raspberry pis.
-But I'm ready to start focus in and sharpening my skills. 
+My focus is cloud computing and when I'm not engaged in my course work at school, I'm testing my skills on hardware in my home lab, or virtually in the cloud.
+IT has become my primary hobby, but my goal is to soon transition into full-time work within the IT industry. My experience as a diagnostic mechanic has helped me develop strong critical analysis skills that I have applied to my IT studies. Additionally, I have certifications such as the CompTIA Network+ and Security+.
 
-I recently earned the Comptia Security+ certificate and I will be testing for Network+ later this month and Linux+ this fall. 
-I have also began practicing Python3 to strengthen my scripting skills which will be my main focus of my Github account. 
-
-My goal is to eventually become fluid in Python for network automation, cloud computing and where ever else the skill may take me. 
-
-Thanks for stopping by and checking out my GitHub.
-Ride safe and have fun coding.
+Thank you for stopping by and checking out my Github profile. I hope you give me a follow as I continue my education and push projects representing some of the skills I've learned. Please feel free to reach out to me if you have any questions or if you're interested in working together.
 
 -Vince.
-
-
-
-
-### Working on the dialog. 
